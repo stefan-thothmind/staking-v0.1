@@ -26,7 +26,7 @@
     "@chainlink/contracts": "^0.4.1",
     "@nomiclabs/hardhat-etherscan": "^3.1.2",
     "@openzeppelin/contracts": "^4.6.0",
-    "merkletreejs": "^0.2.31",
+    "merkletreejs": "^0.4.1",
     "solidity-docgen": "0.6.0-beta.29"
   },
   "devDependencies": {
